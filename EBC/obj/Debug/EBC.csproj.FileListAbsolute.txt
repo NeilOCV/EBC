@@ -1,0 +1,6 @@
+C:\inetpub\wwwroot\EBC\EBC\bin\EBC.dll.config
+C:\inetpub\wwwroot\EBC\EBC\bin\EBC.dll
+C:\inetpub\wwwroot\EBC\EBC\bin\EBC.pdb
+C:\inetpub\wwwroot\EBC\EBC\obj\Debug\EBC.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\EBC\EBC\obj\Debug\EBC.dll
+C:\inetpub\wwwroot\EBC\EBC\obj\Debug\EBC.pdb
